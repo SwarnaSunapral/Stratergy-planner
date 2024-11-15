@@ -1,4 +1,3 @@
-```markdown
 # Sliding Blocks Puzzle 🧩
 
 Welcome to the **Sliding Blocks Puzzle**! This repository implements a `3x3` sliding block puzzle using **A* search algorithm** with various heuristics. Solve the puzzle efficiently with the sum of Manhattan distances as the primary heuristic. 🚀
